@@ -1,0 +1,17 @@
+{
+    "users" : 
+    [
+        {
+        "id" :1,
+        "nama":"Ivan Abdurrafie",
+        "Alamat" : "Semen romo",
+        "Hobby":"Futsal"
+        },
+        {
+            "id" :2,
+            "nama":"Alexander g",
+            "Alamat" : "Semen padang",
+            "Hobby":"non"
+            }
+    ]
+}
