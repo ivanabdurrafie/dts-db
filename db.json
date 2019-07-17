@@ -26,14 +26,14 @@
         {
             "id":2,
             "nama":"shampoo",
-            "gambar": "https://picsum.photos/id/10/5616/3744",
+            "gambar": "https://picsum.photos/id/100/5616/3744",
             "harga":5000,
             "stock":20
         },
         {
             "id":3,
             "nama":"pasta gigi",
-            "gambar": "https://picsum.photos/id/15/5616/3744",
+            "gambar": "https://picsum.photos/id/1001/5616/3744",
             "harga":7000,
             "stock":10
         }
